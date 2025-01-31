@@ -1,1 +1,1 @@
-https://github.com/vijikalavarkar/istio-intallation.git
+https://istio.io/latest/docs/setup/getting-started/
